@@ -3,6 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+RemoteAR/Assets/WebRtcVideoChat/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
