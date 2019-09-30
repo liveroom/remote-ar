@@ -458,8 +458,8 @@ MonoBehaviour:
   _DebugTarget: {fileID: 573167898}
   _DeviceName: VirtualCamera1
   _Fps: 30
-  _Width: 640
-  _Height: 360
+  _Width: 1080
+  _Height: 1920
 --- !u!4 &443299724
 Transform:
   m_ObjectHideFlags: 0
